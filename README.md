@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I currently am a Stats and Data Student at Imperial College London and Telecom Paris. 
+
+Here you will find some of the projects I worked on during my student years. This include : 
+  
+  * Image processing and some Computer Vision projects
+  * Some Data and ML projects from my studies
+  * Some Kaagle Challenges I worked on
+
+If you want to find more about me, I invite you to check my [LinkedIn](https://www.linkedin.com/in/zohra-benali-03009a260?originalSubdomain=fr)
 <!--
 **zobenali/zobenali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
